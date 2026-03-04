@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Siva Kumar
 
-<!--
-**siva-data-science/siva-data-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist | AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about learning Data Science and Artificial Intelligence. I am currently building my skills in Python, Data Analysis, Machine Learning, and AI by working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+- Python for Data Science
+- Data Analysis (Pandas, NumPy)
+- Machine Learning
+- Artificial Intelligence
+
+---
+
+## 🛠 Skills
+- Python
+- Data Analysis
+- SQL
+- Machine Learning
+- Statistics
+
+---
+
+## ⚙ Tools & Technologies
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Git & GitHub
+
+---
+
+## 📂 My Learning Projects
+- Python Practice Programs
+- Data Analysis Projects
+- Machine Learning Models
+- AI Experiments
+
+---
+
+## 🎯 Goal
+My goal is to become a **Data Scientist with AI** and work on real-world data problems.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
